@@ -9008,6 +9008,7 @@ public:
      */
     eProsima_user_DllExport Union_Discriminator_boolean()
     {
+        first_();
     }
 
     /*!
@@ -10812,6 +10813,7 @@ public:
      */
     eProsima_user_DllExport Union_Discriminator_enum_labels()
     {
+        first_();
     }
 
     /*!
